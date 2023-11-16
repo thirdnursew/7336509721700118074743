@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724475956141",
+    "project_id": "happy-asmara-svenday-dev",
+    "storage_bucket": "happy-asmara-svenday-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724475956141:android:feabefb8694294293daf24",
+        "android_client_info": {
+          "package_name": "com.svendaydev.laguhappyasmara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724475956141-i4orp5b8rnh0is8id96abq3ldlvqg9sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3-DgAbx3GlMpiIaIlVrL38hPRs2F1_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724475956141-i4orp5b8rnh0is8id96abq3ldlvqg9sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
