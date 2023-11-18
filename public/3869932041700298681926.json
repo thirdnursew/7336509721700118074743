@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021191298531",
+    "project_id": "insan-biasa-lesti-mp3",
+    "storage_bucket": "insan-biasa-lesti-mp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021191298531:android:4cbf3bd56aa9c907d114d6",
+        "android_client_info": {
+          "package_name": "com.svendaydev.lestikejora.insanbiasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021191298531-aebdlds8kbv0krb1sie6e7lok4nsha8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAao5ft0zhXPacK7a4KGDTW095_qGYhLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021191298531-aebdlds8kbv0krb1sie6e7lok4nsha8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
